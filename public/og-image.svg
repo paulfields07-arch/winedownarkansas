@@ -1,0 +1,20 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg">
+<rect width="1200" height="630" fill="#100306"/>
+<rect x="0" y="0" width="600" height="630" fill="#1a0608" opacity="0.6"/>
+<circle cx="200" cy="315" r="400" fill="#722f37" opacity="0.08"/>
+<circle cx="1000" cy="315" r="300" fill="#c9a84c" opacity="0.05"/>
+<line x1="0" y1="0" x2="0" y2="630" stroke="#722f37" stroke-width="6"/>
+<line x1="1199" y1="0" x2="1199" y2="630" stroke="#722f37" stroke-width="6"/>
+<line x1="0" y1="0" x2="1200" y2="0" stroke="#722f37" stroke-width="6"/>
+<line x1="0" y1="629" x2="1200" y2="629" stroke="#722f37" stroke-width="6"/>
+<circle cx="600" cy="180" r="52" fill="#2d0f14" stroke="#c9a84c" stroke-width="1.5"/>
+<path d="M588 158 Q588 168 582 174 Q576 182 576 192 Q576 202 584 208 L584 214 L616 214 L616 208 Q624 202 624 192 Q624 182 618 174 Q612 168 612 158 Z" fill="#c9a84c" opacity="0.85"/>
+<line x1="592" y1="214" x2="608" y2="214" stroke="#c9a84c" stroke-width="2"/>
+<line x1="588" y1="218" x2="612" y2="218" stroke="#c9a84c" stroke-width="1.5"/>
+<text x="600" y="290" font-family="Georgia,serif" font-size="18" fill="#c9a84c" text-anchor="middle" letter-spacing="8">WELCOME TO</text>
+<text x="600" y="355" font-family="Georgia,serif" font-size="72" fill="#fdfaf6" text-anchor="middle" font-weight="bold" letter-spacing="2">WineDown</text>
+<text x="600" y="420" font-family="Georgia,serif" font-size="72" fill="#c9a84c" text-anchor="middle" font-style="italic">Arkansas</text>
+<line x1="460" y1="445" x2="740" y2="445" stroke="#c9a84c" stroke-width="0.75" opacity="0.5"/>
+<text x="600" y="490" font-family="Georgia,serif" font-size="22" fill="#8a6060" text-anchor="middle" letter-spacing="1">Arkansas's guide to licensed direct wine shippers</text>
+<text x="600" y="530" font-family="Georgia,serif" font-size="18" fill="#4a2020" text-anchor="middle" letter-spacing="2">WINEDOWNARKANSAS.COM</text>
+</svg>
